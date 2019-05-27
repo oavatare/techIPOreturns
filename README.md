@@ -1,0 +1,3 @@
+# techIPOreturns
+
+# Given that fact that the value of a company is the stream of its future cash flows, it would seem that tech IPOs might make great investments due to the fact that they have been part of a thirty year macrotrend of software taking real world applications and virtualizing them, creating efficiencies through a zero cost of distribution model with aggregated marketplaces of supply and demand, and the marginal cost of additional software being zero cost as well. Therefore, I was curious to see if this trend held up when examining market returns, with the initial assumption that tech IPOs would outperform the broader market. 
